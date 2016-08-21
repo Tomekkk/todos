@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TODO\'s</string>
+    <string name="title_activity_to_dos">TODO\'s</string>
+    <string name="connection_error">Unable to resolve host, check Internet connection.</string>
+
+    <string name="list_empty">Empty</string>
+    <string name="list_task_id">"Id: "</string>
+    <string name="list_task_title">"Title: "</string>
+    <string name="list_task_completed">"Completed: "</string>
+
+    <string name="edit_completed">Completed</string>
+    <string name="edit_title_hint">Type here task content</string>
+    <string name="edit_toolbar_title">Edit task #%1$d</string>
+    <string name="edit_saved">Saved</string>
+    <string name="edit_unable_save">Unable to save</string>
+    <string name="edit_save">Save</string>
+
+    <string name="todos_save_on_server">Save on server</string>
+    <string name="todos_filter_list">Filter list</string>
+    <string name="todos_update_completed">Full backup on server completed</string>
+    <string name="todos_update_fail">Unable to upload tasks on server</string>
+    <string name="todos_modified">(Only modified)</string>
+    <string name="list_not_synced_icon">Not synced icon</string>
+</resources>
